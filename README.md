@@ -1,7 +1,3 @@
-Here's a polished version of your submission formatted for a **GitHub README**:
-
----
-
 # 💚 Green Spark Submission
 
 ## 🏷️ Project Title
