@@ -66,7 +66,17 @@ In future iterations, EcoSnap aims to integrate **AI-powered waste classificatio
 
 ## 🖼️ Screenshot
 
-*(Add screenshot image here)*
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/a94bb012-aaa0-44f0-ad08-a23c32be457f" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/abd841dc-0f37-41d6-badd-e2b38f6501c0" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/9b1a6047-a52f-44de-b20f-94efdd3587ea" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d47aac06-b685-4482-8877-2eb595a61b82" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/01b649e3-34d6-4043-b50e-dab900faa498" />
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/b33bb4b3-b206-412c-a105-5132ecd53395" />
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/45dfef82-d078-4d8e-92c8-8f4e30d86e37" />
+
+
+
+
 
 ---
 
